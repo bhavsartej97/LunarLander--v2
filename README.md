@@ -3,4 +3,4 @@ The goal of this project is to solve the LunarLander –v2 challenge using Q-Lea
 Install all the libraries mentioned in the libraries.txt file.
 Install Box2D library.
 Run the start.py file.
-![]openaigym.video.0.11382.video000003.gif
+![](openaigym.video.0.11382.video000003.gif)
